@@ -9,7 +9,7 @@ const AppDownload = () => {
             <div className="app-download-platforms">
                 <img src={assets.play_store} alt="" />
                 <img src={assets.app_store} alt="" />
-              <div> Coming Soon </div>   
+              <div> </br> Coming Soon </div>   
             </div>
         </div>
     )
