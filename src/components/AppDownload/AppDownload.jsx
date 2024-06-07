@@ -8,9 +8,9 @@ const AppDownload = () => {
             <p>For Better Experience Download <br/>Madhira Food Delivery App</p>
             <div className="app-download-platforms">
                 <img src={assets.play_store} alt="" />
-                <img src={assets.app_store} alt="" />
-              <div> </br> Coming Soon </div>   
+                <img src={assets.app_store} alt="" />  
             </div>
+            <p>Coming Soon</p>
         </div>
     )
 }
